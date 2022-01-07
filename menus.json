@@ -1,4 +1,5 @@
-{
+[
+  {
     "fsq_id": "53a60cc8498e92f6ecf201b0",
     "menuItems": [
       {
@@ -49,7 +50,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -60,9 +61,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-      
+      }
+    ]
+  },
+
   {
     "fsq_id": "4f19fc471081b9819016c54d",
     "menuItems": [
@@ -114,7 +116,7 @@
         "description": "ham, sliced chorizo, over easy egg, monterey jack & habanero jack cheeses on sourdough",
         "price": 14
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -125,8 +127,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "53a60cc8498e92f6ecf201b0",
     "menuItems": [
       {
@@ -177,7 +181,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -188,9 +192,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-      
+      }
+    ]
+  },
+
   {
     "fsq_id": "4b47ebdcf964a5200a4426e3",
     "menuItems": [
@@ -218,7 +223,7 @@
         "description": "House Italian sausage, roasted red peppers, Alabama goat cheese, shaved red onions",
         "price": 18
       },
-        {
+      {
         "itemId": "00005",
         "name": "Bone In Chicken Wings",
         "description": "8 breaded or buffalo traditional party wings",
@@ -229,8 +234,10 @@
         "name": "Drink",
         "description": "Your choice of a 2 liter Coke, Sprite, Diet Coke, Dr. Pepper",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "53a60cc8498e92f6ecf201b0",
     "menuItems": [
       {
@@ -238,7 +245,6 @@
         "name": "Joint",
         "description": "Two house blend beef patties, American cheese, lettuce, tomato, raw onions, pickles, joint sauce, on a potato bun",
         "price": 8
-        "inage": "imageurl"
       },
       {
         "itemId": "00002",
@@ -282,7 +288,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -293,9 +299,9 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-      
+      }
+    ]
+  },
   {
     "fsq_id": "4f19fc471081b9819016c54d",
     "menuItems": [
@@ -304,7 +310,6 @@
         "name": "CHICKEN PARMESAN",
         "description": "chicken tenders tossed w/ marinara, mozzarella & parmesan cheeses on sourdough",
         "price": 13
-       
       },
       {
         "itemId": "00002",
@@ -348,7 +353,7 @@
         "description": "ham, sliced chorizo, over easy egg, monterey jack & habanero jack cheeses on sourdough",
         "price": 14
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -359,8 +364,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "53a60cc8498e92f6ecf201b0",
     "menuItems": [
       {
@@ -368,7 +375,6 @@
         "name": "Baked Avocado",
         "description": "Chopped Shrimp, bacon tempura spicy mayo sweet soy, green onions",
         "price": 11
-         
       },
       {
         "itemId": "00002",
@@ -397,7 +403,7 @@
       {
         "itemId": "00006",
         "name": "Fried Gulf Shrimp",
-        "description" "House tartar french fries",
+        "description": "House tartar french fries",
         "price": 8
       },
       {
@@ -412,7 +418,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -423,8 +429,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "57003efd498e43fbaca1bdbd",
     "menuItems": [
       {
@@ -432,7 +440,6 @@
         "name": "HAMBURGER",
         "description": "Our Wagyu patty. Served Simple.",
         "price": 8
-        "inage": "imageurl"
       },
       {
         "itemId": "00002",
@@ -442,8 +449,7 @@
       },
       {
         "itemId": "00003",
-        "name": "THE FRANKIE BRADY*
-",
+        "name": "THE FRANKIE BRADY",
         "description": "a very JB’s grilled cheese) A flip-flop potato roll, 2 slices of Cheese, house-made Mac n’Cheese & BBQ potato chips.",
         "price": 12
       },
@@ -477,7 +483,7 @@
         "description": "Burger topped with Peanut Butter, Mayo, Applewood Smoked Bacon and American-Cheddar blend cheese.",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -488,9 +494,11 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-              {
+      }
+    ]
+  },
+
+  {
     "fsq_id": "53a60cc8498e92f6ecf201b0",
     "menuItems": [
       {
@@ -498,7 +506,6 @@
         "name": "Baked Avocado",
         "description": "Chopped Shrimp, bacon tempura spicy mayo sweet soy, green onions",
         "price": 11
-         
       },
       {
         "itemId": "00002",
@@ -527,7 +534,7 @@
       {
         "itemId": "00006",
         "name": "Fried Gulf Shrimp",
-        "description" "House tartar french fries",
+        "description": "House tartar french fries",
         "price": 8
       },
       {
@@ -542,7 +549,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -553,8 +560,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "57003efd498e43fbaca1bdbd",
     "menuItems": [
       {
@@ -567,13 +576,13 @@
         "itemId": "00002",
         "name": "Turkey",
         "description": "Our Wagyu patty topped with American Cheddar.",
-        "price": 10.50
+        "price": 10.5
       },
       {
         "itemId": "00003",
         "name": "Italian",
         "description": "Genoa salami, pepperoni,Black Forest ham, provolone, pickles, tomato, deli dressing ",
-        "price": 10.50
+        "price": 10.5
       },
       {
         "itemId": "00004",
@@ -591,7 +600,7 @@
         "itemId": "00006",
         "name": "Turkey Wrap",
         "description": "smoked turkey, gouda,avocado, tomatoes, greens, mayo, deli mustard",
-        "price": 9.50
+        "price": 9.5
       },
       {
         "itemId": "00007",
@@ -605,7 +614,7 @@
         "description": "- rotisserie chicken, blue cheese, romaine, buffalo sauce",
         "price": 9
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -616,8 +625,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "5ae733e073fe25002b458d68",
     "menuItems": [
       {
@@ -668,7 +679,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -679,9 +690,9 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-      
+      }
+    ]
+  },
   {
     "fsq_id": "4b058669f964a520f06022e3",
     "menuItems": [
@@ -733,7 +744,7 @@
         "description": "ham, sliced chorizo, over easy egg, monterey jack & habanero jack cheeses on sourdough",
         "price": 14
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -744,8 +755,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "59fbd834f4b52520eb93cff4",
     "menuItems": [
       {
@@ -796,7 +809,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -807,8 +820,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "4b06144bf964a5205ee822e3",
     "menuItems": [
       {
@@ -835,8 +850,8 @@
         "description": "House Italian sausage, roasted red peppers, Alabama goat cheese, shaved red onions",
         "price": 18
       },
-      
-        {
+
+      {
         "itemId": "00005",
         "name": "Bone In Chicken Wings",
         "description": "8 breaded or buffalo traditional party wings",
@@ -847,8 +862,10 @@
         "name": "Drink",
         "description": "Your choice of a 2 liter Coke, Sprite, Diet Coke, Dr. Pepper",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "4b058670f964a5204b6222e3",
     "menuItems": [
       {
@@ -899,7 +916,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -910,8 +927,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "4b058670f964a520506222e3",
     "menuItems": [
       {
@@ -962,7 +981,7 @@
         "description": "ham, sliced chorizo, over easy egg, monterey jack & habanero jack cheeses on sourdough",
         "price": 14
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -973,8 +992,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "4eb327a0d3e3bcda5ae91bbb",
     "menuItems": [
       {
@@ -982,7 +1003,6 @@
         "name": "Baked Avocado",
         "description": "Chopped Shrimp, bacon tempura spicy mayo sweet soy, green onions",
         "price": 11
-         
       },
       {
         "itemId": "00002",
@@ -1026,7 +1046,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1037,8 +1057,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "5838b1be424f9379714ee353",
     "menuItems": [
       {
@@ -1089,7 +1111,7 @@
         "description": "Burger topped with Peanut Butter, Mayo, Applewood Smoked Bacon and American-Cheddar blend cheese.",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1100,9 +1122,11 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-    {
+      }
+    ]
+  },
+
+  {
     "fsq_id": "4b05866df964a520a86122e3",
     "menuItems": [
       {
@@ -1110,7 +1134,6 @@
         "name": "Baked Avocado",
         "description": "Chopped Shrimp, bacon tempura spicy mayo sweet soy, green onions",
         "price": 11
-         
       },
       {
         "itemId": "00002",
@@ -1154,7 +1177,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1165,8 +1188,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "4cc716ccd43ba143151178f8",
     "menuItems": [
       {
@@ -1179,13 +1204,13 @@
         "itemId": "00002",
         "name": "Turkey",
         "description": "Our Wagyu patty topped with American Cheddar.",
-        "price": 10.50
+        "price": 10.5
       },
       {
         "itemId": "00003",
         "name": "Italian",
         "description": "Genoa salami, pepperoni,Black Forest ham, provolone, pickles, tomato, deli dressing ",
-        "price": 10.50
+        "price": 10.5
       },
       {
         "itemId": "00004",
@@ -1203,7 +1228,7 @@
         "itemId": "00006",
         "name": "Turkey Wrap",
         "description": "smoked turkey, gouda,avocado, tomatoes, greens, mayo, deli mustard",
-        "price": 9.50
+        "price": 9.5
       },
       {
         "itemId": "00007",
@@ -1217,7 +1242,7 @@
         "description": "- rotisserie chicken, blue cheese, romaine, buffalo sauce",
         "price": 9
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1228,9 +1253,11 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
+      }
+    ]
+  },
 
-      {
+  {
     "fsq_id": "4ae659aef964a52092a621e3",
     "menuItems": [
       {
@@ -1281,7 +1308,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1292,8 +1319,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "4b510fe4f964a520554027e3",
     "menuItems": [
       {
@@ -1344,7 +1373,7 @@
         "description": "ham, sliced chorizo, over easy egg, monterey jack & habanero jack cheeses on sourdough",
         "price": 14
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1355,8 +1384,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "41326e00f964a520f9111fe3",
     "menuItems": [
       {
@@ -1407,7 +1438,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1418,8 +1449,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "4ada6409f964a520352221e3",
     "menuItems": [
       {
@@ -1446,8 +1479,8 @@
         "description": "House Italian sausage, roasted red peppers, Alabama goat cheese, shaved red onions",
         "price": 18
       },
-      
-        {
+
+      {
         "itemId": "00005",
         "name": "Bone In Chicken Wings",
         "description": "8 breaded or buffalo traditional party wings",
@@ -1458,8 +1491,10 @@
         "name": "Drink",
         "description": "Your choice of a 2 liter Coke, Sprite, Diet Coke, Dr. Pepper",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "4b11cb7ff964a520ca8423e3",
     "menuItems": [
       {
@@ -1510,7 +1545,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1521,9 +1556,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-      
+      }
+    ]
+  },
+
   {
     "fsq_id": "4c979839f244b1f799f53d1d",
     "menuItems": [
@@ -1575,7 +1611,7 @@
         "description": "ham, sliced chorizo, over easy egg, monterey jack & habanero jack cheeses on sourdough",
         "price": 14
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1586,8 +1622,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-        {
+      }
+    ]
+  },
+  {
     "fsq_id": "4a390bd8f964a520159f1fe3",
     "menuItems": [
       {
@@ -1595,7 +1633,6 @@
         "name": "Baked Avocado",
         "description": "Chopped Shrimp, bacon tempura spicy mayo sweet soy, green onions",
         "price": 11
-         
       },
       {
         "itemId": "00002",
@@ -1639,7 +1676,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1650,8 +1687,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "54a260a6498e58bd4fb7a3e9",
     "menuItems": [
       {
@@ -1659,7 +1698,6 @@
         "name": "HAMBURGER",
         "description": "Our Wagyu patty. Served Simple.",
         "price": 8
-
       },
       {
         "itemId": "00002",
@@ -1703,7 +1741,7 @@
         "description": "Burger topped with Peanut Butter, Mayo, Applewood Smoked Bacon and American-Cheddar blend cheese.",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1714,9 +1752,11 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      
-    {
+      }
+    ]
+  },
+
+  {
     "fsq_id": "4b857e8ff964a520966131e3",
     "menuItems": [
       {
@@ -1767,7 +1807,7 @@
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
         "price": 10
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1778,8 +1818,10 @@
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
         "price": 4
-      },
-      {
+      }
+    ]
+  },
+  {
     "fsq_id": "4b4b5994f964a5205c9826e3",
     "menuItems": [
       {
@@ -1792,13 +1834,13 @@
         "itemId": "00002",
         "name": "Turkey",
         "description": "Our Wagyu patty topped with American Cheddar.",
-        "price": 10.50
+        "price": 10.5
       },
       {
         "itemId": "00003",
         "name": "Italian",
         "description": "Genoa salami, pepperoni,Black Forest ham, provolone, pickles, tomato, deli dressing ",
-        "price": 10.50
+        "price": 10.5
       },
       {
         "itemId": "00004",
@@ -1816,7 +1858,7 @@
         "itemId": "00006",
         "name": "Turkey Wrap",
         "description": "smoked turkey, gouda,avocado, tomatoes, greens, mayo, deli mustard",
-        "price": 9.50
+        "price": 9.5
       },
       {
         "itemId": "00007",
@@ -1830,7 +1872,7 @@
         "description": "- rotisserie chicken, blue cheese, romaine, buffalo sauce",
         "price": 9
       },
-        {
+      {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
@@ -1844,3 +1886,4 @@
       }
     ]
   }
+]
