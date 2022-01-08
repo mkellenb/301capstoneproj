@@ -1,0 +1,1 @@
+To import Menu data into your mongoDB database. Make sure MongoDB is running then run 'mongo menuAPI < menusJson.js' from the command line.
