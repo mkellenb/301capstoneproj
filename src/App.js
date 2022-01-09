@@ -1,25 +1,33 @@
-import logo from './logo.svg';
+import logo from '/Users/megk/finalproj/finalproject/src/Eats.png';
 import './App.css';
+import './App.js';
+import './searchbox.js'
+import './search.js'
+import React from 'react';
+import SearchBox from './searchbox.js';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
+
+
+class App extends React.Component {
+  render() {
+
+    return (
+      <div className="App">
+
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+        <SearchBox />
+
+
+
+
+
+
+
+
+      </div>
+
+    );
+  }
 }
 
 export default App;
